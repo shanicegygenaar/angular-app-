@@ -1,6 +1,6 @@
 {
   "name": "lbnogavalmp.angular",
-  "version": "0.0.0",
+  "version": "1",
   "private": true,
   "dependencies": {
     "rxjs": "6.5.5",
